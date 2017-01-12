@@ -9,7 +9,7 @@
 #SBATCH --mail-type=end    # email me when the job finishes
 #SBATCH -A [allocation code]          # Specify allocation to charge against
 
-### This template is for running commands in parallel on TACC
+### This template is for running commands in parallel on TACC stampede as of 2017
 ### The commands file has one command per line
 
 ### Put the name of your commands file here.
