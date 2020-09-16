@@ -10,6 +10,7 @@
 #SBATCH --mail-type=end    # email me when the job finishes
 #SBATCH -A [allocation code]          # Specify allocation to charge against
 
+### TACC Launcher example
 ### This template is for running commands in parallel on TACC Lone Star 5 as of 2017, and TACC Stampede2 as of 2020
 ### Lonestar might not need -N 
 ### The commands file has one command per line
